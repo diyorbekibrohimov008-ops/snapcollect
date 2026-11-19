@@ -3,6 +3,10 @@
 > **Client Document & Asset Collection for Accounting, Mortgage, & Professional Services**  
 > *Replace email attachments, chasing clients, and throttled portals with zero-login WhatsApp/SMS intake, instant AI document verification, and seasonal unlimited scaling.*
 
+> [!WARNING]
+> **Project Status — Work in Progress (Not Fully Ready)**
+> This project is currently under active development and is **not fully ready for production**. Some parts, features, or workflow steps will fail or behave unexpectedly. We are actively working on fixing all remaining issues.
+
 [![Live on Vercel](https://img.shields.io/badge/Vercel-Live%20Production-black?style=flat&logo=vercel)](https://snapcollect.vercel.app)
 [![Next.js 16](https://img.shields.io/badge/Next.js-16.4-blue?style=flat&logo=next.js)](https://nextjs.org)
 [![React 19](https://img.shields.io/badge/React-19.3-61dafb?style=flat&logo=react)](https://react.dev)

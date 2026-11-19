@@ -34,3 +34,11 @@ next-env.d.ts
 # OS files
 .DS_Store
 Thumbs.db
+
+# Secrets, environment variables, and deploy state
+.env.*
+*.env
+.netlify
+*.pem
+*.key
+.data/
